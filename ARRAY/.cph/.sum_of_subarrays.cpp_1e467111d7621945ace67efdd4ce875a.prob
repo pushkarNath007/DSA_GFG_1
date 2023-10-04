@@ -1,0 +1,1 @@
+{"name":"Local: sum_of_subarrays","url":"c:\\Users\\pushk\\Desktop\\LOOPS C++ Q&A WITH PROGRAM\\ARRAY\\sum_of_subarrays.cpp","tests":[{"id":1639264560032,"input":"3\n1 2 2","output":"17"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\pushk\\Desktop\\LOOPS C++ Q&A WITH PROGRAM\\ARRAY\\sum_of_subarrays.cpp","group":"local","local":true}
